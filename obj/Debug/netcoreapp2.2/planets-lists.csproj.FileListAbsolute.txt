@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\bin\Debug\netcoreapp2.2\planets-lists.deps.json
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\bin\Debug\netcoreapp2.2\planets-lists.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\bin\Debug\netcoreapp2.2\planets-lists.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\bin\Debug\netcoreapp2.2\planets-lists.dll
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\bin\Debug\netcoreapp2.2\planets-lists.pdb
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.dll
+C:\Users\naienko\workspace\csharp\exercises\planets-lists\obj\Debug\netcoreapp2.2\planets-lists.pdb
